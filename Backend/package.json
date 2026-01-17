@@ -9,9 +9,9 @@
     "test": "echo 'No tests specified'"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aditya Bisht",
   "license": "MIT",
-  "description": "",
+  "description": "Backend API for AI-powered literary analysis using Google Gemini AI",
   "dependencies": {
     "@google/genai": "^1.8.0",
     "@google/generative-ai": "^0.24.1",
