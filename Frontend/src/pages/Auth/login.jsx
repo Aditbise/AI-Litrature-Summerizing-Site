@@ -47,7 +47,7 @@ try {
   if (token){
     localStorage.setItem("token", token);
     updateUser(response.data)
-    navigate("/dashboard");
+    navigate("/analyze");
   }
       } catch (error) {
       if (error.response && error.response.data.message) {
