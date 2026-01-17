@@ -175,7 +175,7 @@ interpre-main/
 
 Contributions are welcome. Users may fork, improve, and submit pull requests.
 
-## 📄 License
+## License
 
 MIT License - feel free to use this project for personal or commercial purposes.
 
