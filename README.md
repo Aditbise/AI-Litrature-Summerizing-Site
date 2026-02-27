@@ -351,4 +351,12 @@ This project is licensed under the ISC License - see the package.json files for 
 - [ ] Literary device glossary
 - [ ] Historical period reference guide
 
+## Resume
+- Develops innovative algorithms for text summarization.
+- Collaborates with cross-functional teams for app development.
+- Expert in Python, JavaScript, and machine learning frameworks.
+- Successfully launched an AI-driven literature summarizing tool.
+
+Tech: Python, JavaScript, TensorFlow, Flask, Git, Markdown
+
 **Start analyzing literature with AI today!** 
