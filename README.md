@@ -352,11 +352,15 @@ This project is licensed under the ISC License - see the package.json files for 
 - [ ] Historical period reference guide
 
 ## Resume
-- Develops innovative algorithms for text summarization.
-- Collaborates with cross-functional teams for app development.
-- Expert in Python, JavaScript, and machine learning frameworks.
-- Successfully launched an AI-driven literature summarizing tool.
 
-Tech: Python, JavaScript, TensorFlow, Flask, Git, Markdown
+**Literature Analyzer** — Full-stack web app that uses AI to generate structured literary analysis (meanings/vocabulary, literary devices, themes, symbolism, historical context, summary) from user-provided passages, with authenticated history and personal notes.
+
+- Built a **React + Vite** frontend with **React Router**, **Tailwind CSS**, and **Framer Motion** for a responsive, animated UI.
+- Developed a **Node.js/Express REST API** with **JWT authentication** and **bcryptjs** password hashing.
+- Implemented persistence with **MongoDB + Mongoose** to store users, analysis sessions/history, and personal notes.
+- Integrated optional AI providers (**Google GenAI / Gemini** and **OpenAI**) behind a backend controller, with a mock-analysis fallback for local development/testing.
+- Added analysis workflow + UX features: history browsing, search/filter, note-taking, deletion, and export/download of results.
+
+**Tech:** JavaScript, React, Vite, Tailwind CSS, Framer Motion, React Router, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, Axios, Multer, dotenv
 
 **Start analyzing literature with AI today!** 
